@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+nav ul a{
+  font-size: 28px;
+}
+
+ .profile-img{
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  padding-left: 80px;
+  background: transparent;
+}
+
+.user-collection{
+  float: right;
+  width: 500px;
+}
+
+.posts{
+  margin-top: 40px;
+  padding-bottom: 0;
+}
+
+.post-icons{
+  text-align: right;
+  letter-spacing: 40px;
+   
+}
+
+.post-footer{
+  /* padding: 10px; */
+  background: #ffffff;
+}
+
+.icon{
+  padding: 10px;
+  cursor: pointer;
+ 
+}
+
+.fav{
+  color: palevioletred;
+}
+
+.delete{
+  color: tomato;
+}
+
+.edit{
+  color: green;
+}
+
+.post-content{
+  padding-bottom: 10px;
+}
+
+.remove-comment{
+  float: right;
+  cursor: pointer;
+}
+
+.comments-card{
+  margin-top: 40px;
+}
+
+.photo-card{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card .photo-title{
+  font-size: 20px;
+}
+
+.favs{
+  margin-top: 60px;
+}
+
+.fav-card{
+  margin-top: 10px;
+  padding: 10px;
+}
